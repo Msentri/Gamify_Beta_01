@@ -76,9 +76,6 @@ class UserManipulation extends DatabaseManipulation
 
             }
         }
-
-
-
     }
 
     public function getUserPoints($user_id){
